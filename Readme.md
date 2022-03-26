@@ -6,8 +6,7 @@ For more infomation about deepface framework, you can refer to [deepface page](h
 
 1. ```git clone https://github.com/code-farzi-baniya/Emotion-Recognition-Using-Transfer-Learning-with-DeepFace.git```
 
-2. ```pip install -r requirements.txt```
+2. Always initialize with a virtual environment and then ```pip install -r requirements.txt```
 
 3. ```Run the app.ipynb noptebook initally, to download the model weights and test out the demo to understand the workings```
 
-4.
