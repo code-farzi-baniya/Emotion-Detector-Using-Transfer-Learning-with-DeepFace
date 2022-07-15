@@ -2,7 +2,7 @@ I have included a primary demo file and the final streamlit application( sadly, 
 
 For more infomation about deepface framework, you can refer to [deepface page](https://github.com/serengil/deepface)
 
-Here's my friend @sarthak31122000, demonstrating the usecase as a volunteer:
+Here's my friend [sarthak](https://github.com/sarthak31122000), demonstrating the usecase as a volunteer:
 
 
 
